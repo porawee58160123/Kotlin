@@ -10,7 +10,6 @@ class MainActivity : AppCompatActivity() {
 
     val username = "Porawee"
     val password = "1234"
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
